@@ -21,7 +21,7 @@
 		} 
 	}
 	
-	// kas epost on tühi
+	// kas epost on tühi ss
 	
 	
 	$signupPasswordError = "";
